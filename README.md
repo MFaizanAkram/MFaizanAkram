@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan Akram</h1>
 <h3 align="center">A computer addicted</h3>
-<img align="right" alt="coding" width="400" src ='https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/fnD9cHHIrYRYk/giphy.gif'>
+<img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaizanakram&label=Profile%20views&color=0e75b6&style=flat" alt="mfaizanakram" /> </p>
 
 - 👨‍🎓 Data visualisation and analysis excellence in R and Python
@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on **Meta-Analysis**
 
 - 📫 How to reach me **faizanakram2810@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
