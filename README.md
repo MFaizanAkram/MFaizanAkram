@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaizanakram&label=Profile%20views&color=0e75b6&style=flat" alt="mfaizanakram" /> </p>
 
-- 👨‍🎓 Data visualisation and analysis excellence in R and Python
+- 👨‍🎓 Data Analytics using Python.
 
-- 🔭 I’m currently working on **Meta-Analysis**
+- 🔭 I’m currently studying **Bachelors of Business Data Analytics**
 
 - 📫 How to reach me **faizanakram2810@gmail.com**
 
