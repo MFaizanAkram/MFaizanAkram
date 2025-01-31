@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying **Bachelors of Business Data Analytics**
 
-- 📫 How to reach me **faizanakram2810@gmail.com**
+- 📫 How to reach me **mfakram28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
